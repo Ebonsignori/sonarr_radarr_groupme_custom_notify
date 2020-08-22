@@ -1,0 +1,1 @@
+Custom notification script `notifyDelugeOnComplete.sh` to message a GroupMe group for Sonarr and Radarr
